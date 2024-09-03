@@ -1,4 +1,4 @@
-package job4j.algorithms_in_interview;
+package job4j.algorithms;
 
 import java.util.Arrays;
 
